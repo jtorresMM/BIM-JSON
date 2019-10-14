@@ -8,22 +8,22 @@
                 {
                     "invNumero" : 1001,
                     "invCantid" : 300.00,
-                    "invFecVen" : "14/10/2019"
+                    "invFecVen" : "2019-10-14"
                 },
                 {
                     "invNumero" : 1002,
                     "invCantid" : 400.00,
-                    "invFecVen" : "11/10/2019"
+                    "invFecVen" : "2019-10-11"
                 },
                 {
                     "invNumero" : 1003,
                     "invCantid" : 250.00,
-                    "invFecVen" : "13/10/2019"
+                    "invFecVen" : "2019-10-13"
                 },
                 {
                     "invNumero" : 1004,
                     "invCantid" : 450.00,
-                    "invFecVen" : "11/10/2019"
+                    "invFecVen" : "2019-10-14"
                 }
             ]
         },
@@ -35,37 +35,37 @@
                 {
                     "invNumero" : 1006,
                     "invCantid" : 300.00,
-                    "invFecVen" : "10/10/2019"
+                    "invFecVen" : "2019-10-10"
                 },
                 {
                     "invNumero" : 1007,
                     "invCantid" : 400.00,
-                    "invFecVen" : "11/10/2019"
+                    "invFecVen" : "2019-10-15"
                 },
                 {
                     "invNumero" : 1008,
                     "invCantid" : 50.00,
-                    "invFecVen" : "13/10/2019"
+                    "invFecVen" : "2019-10-13"
                 },
                 {
                     "invNumero" : 1009,
                     "invCantid" : 450.00,
-                    "invFecVen" : "14/10/2019"
+                    "invFecVen" : "2019-10-14"
                 },
                 {
                     "invNumero" : 1010,
                     "invCantid" : 250.00,
-                    "invFecVen" : "11/10/2019"
+                    "invFecVen" : "2019-10-11"
                 },
                 {
                     "invNumero" : 1011,
                     "invCantid" : 500.00,
-                    "invFecVen" : "15/10/2019"
+                    "invFecVen" : "2019-10-15"
                 },
                 {
                     "invNumero" : 1012,
                     "invCantid" : 250.00,
-                    "invFecVen" : "11/10/2019"
+                    "invFecVen" : "2019-10-11"
                 }
             ]
         },
@@ -77,32 +77,32 @@
                 {
                     "invNumero" : 1014,
                     "invCantid" : 350.00,
-                    "invFecVen" : "12/10/2019"
+                    "invFecVen" : "2019-10-12"
                 },
                 {
                     "invNumero" : 1015,
                     "invCantid" : 400.00,
-                    "invFecVen" : "15/10/2019"
+                    "invFecVen" : "2019-10-15"
                 },
                 {
                     "invNumero" : 1016,
                     "invCantid" : 600.00,
-                    "invFecVen" : "14/10/2019"
+                    "invFecVen" : "2019-10-14"
                 },
                 {
                     "invNumero" : 1017,
                     "invCantid" : 450.00,
-                    "invFecVen" : "11/10/2019"
+                    "invFecVen" : "2019-10-11"
                 },
                 {
                     "invNumero" : 1018,
                     "invCantid" : 250.00,
-                    "invFecVen" : "13/10/2019"
+                    "invFecVen" : "2019-10-14"
                 },
                 {
                     "invNumero" : 1019,
                     "invCantid" : 300.00,
-                    "invFecVen" : "11/10/2019"
+                    "invFecVen" : "2019-10-13"
                 }
             ]
         },
@@ -114,17 +114,17 @@
         {
           "invNumero": 1935000021025,
           "invCantid": 24600,
-          "invFecVen": "2019-10-08"
+          "invFecVen": "2019-10-11"
         },
 		{
           "invNumero": 1935000021026,
           "invCantid": 24600,
-          "invFecVen": "2019-10-09"
+          "invFecVen": "2019-10-12"
         },
 		{
           "invNumero": 1935000021027,
           "invCantid": 24600,
-          "invFecVen": "2019-10-09"
+          "invFecVen": "2019-10-10"
         },
 		{
           "invNumero": 1935000021028,
@@ -134,7 +134,7 @@
 		{
           "invNumero": 1935000021029,
           "invCantid": 24600,
-          "invFecVen": "2019-10-09"
+          "invFecVen": "2019-10-16"
         }
       ]
     }
