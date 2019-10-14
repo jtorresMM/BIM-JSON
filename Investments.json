@@ -8,7 +8,7 @@
                 {
                     "invNumero" : 1001,
                     "invCantid" : 300.00,
-                    "invFecVen" : "2019-10-14"
+                    "invFecVen" : "2019-10-15"
                 },
                 {
                     "invNumero" : 1002,
@@ -18,12 +18,12 @@
                 {
                     "invNumero" : 1003,
                     "invCantid" : 250.00,
-                    "invFecVen" : "2019-10-13"
+                    "invFecVen" : "2019-10-15"
                 },
                 {
                     "invNumero" : 1004,
                     "invCantid" : 450.00,
-                    "invFecVen" : "2019-10-14"
+                    "invFecVen" : "2019-10-16"
                 }
             ]
         },
