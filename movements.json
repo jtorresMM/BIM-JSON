@@ -1,0 +1,29 @@
+{
+     "movements" : [
+         {
+            "paymentReference" : "Retiro en cajero",
+            "date" : "20 Sep",
+            "amount" : "-$9,000.00"
+         },
+         {
+            "paymentReference" : "Deposito en ventanilla",
+            "date" : "18 Sep",
+            "amount" : "+$2,500.00"
+         },
+         {
+            "paymentReference" : "AMAZON.COM MEX",
+            "date" : "18 Sep",
+            "amount" : "-$380.00"
+         },
+         {
+            "paymentReference" : "PAYPAL.COM Store Tech",
+            "date" : "12 Sep",
+            "amount" : "-$495.00"
+         },
+         {
+            "paymentReference" : "Depósito en ventanilla",
+            "date" : "5 Sep",
+            "amount" : "+$500.00"
+         }
+     ]
+}
