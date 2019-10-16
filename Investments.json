@@ -137,6 +137,38 @@
           "invFecVen": "2019-10-16"
         }
       ]
+    },
+	     {
+      "categoria": "CEDE",
+      "totalinvCantid": 0,
+      "totalInv": 0,
+      "inversiones": [
+        {
+          "invNumero": 1935000021025,
+          "invCantid": 24600,
+          "invFecVen": "2019-10-11"
+        },
+		{
+          "invNumero": 1935000021026,
+          "invCantid": 24600,
+          "invFecVen": "2019-10-12"
+        },
+		{
+          "invNumero": 1935000021027,
+          "invCantid": 24600,
+          "invFecVen": "2019-10-10"
+        },
+		{
+          "invNumero": 1935000021028,
+          "invCantid": 24600,
+          "invFecVen": "2019-10-09"
+        },
+		{
+          "invNumero": 1935000021029,
+          "invCantid": 24600,
+          "invFecVen": "2019-10-16"
+        }
+      ]
     }
     ]
 }
