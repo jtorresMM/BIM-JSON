@@ -1,0 +1,14 @@
+{
+    "accounts" : [
+        {
+            "id" : 10001,
+            "number_account" : 111222333,
+            "balance" : "23,453.50"
+        },
+        {
+            "id" : 10002,
+            "number_account" : 222333555,
+            "balance" : "1,000.30"
+        }
+    ]
+}
