@@ -1,0 +1,40 @@
+{
+     "movimientos" : [
+         {
+            "movDescrip": "Retiro en cajero",
+            "fechaVal": "2019-10-17",
+            "movCantid": 9000.0,
+            "movNatura": 1
+         },
+         {
+            "movDescrip": "Deposito en ventanilla",
+            "fechaVal": "2019-10-27",
+            "movCantid": 2500.0,
+            "movNatura": 2
+         },
+         {
+            "movDescrip": "AMAZON.COM MEX",
+            "fechaVal": "2019-10-10",
+            "movCantid": 380.0,
+            "movNatura": 2
+         },
+         {
+            "movDescrip": "PAYPAL.COM Store Tech",
+            "fechaVal": "2019-09-30",
+            "movCantid": 495.0,
+            "movNatura": 2
+         },
+         {
+            "movDescrip": "Depósito en ventanilla",
+            "fechaVal": "2019-09-12",
+            "movCantid": 1500.0,
+            "movNatura": 1
+         },
+         {
+            "movDescrip": "Depósito en ventanilla",
+            "fechaVal": "2019-08-19",
+            "movCantid": 2000.0,
+            "movNatura": 2
+         }
+     ]
+}
