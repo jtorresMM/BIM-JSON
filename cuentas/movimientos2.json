@@ -1,0 +1,10 @@
+{
+     "movimientos" : [
+         {
+            "movDescrip": "Deposito en ventanilla",
+            "fechaVal": "2019-09-22",
+            "movCantid": 10000.0,
+            "movNatura": 2
+         }
+     ]
+}
