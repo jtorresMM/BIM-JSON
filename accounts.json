@@ -9,6 +9,11 @@
             "id" : 10002,
             "number_account" : 222333555,
             "balance" : "1,000.30"
+        },
+        {
+            "id" : 10003,
+            "number_account" : 545543522,
+            "balance" : "0"
         }
     ]
 }
