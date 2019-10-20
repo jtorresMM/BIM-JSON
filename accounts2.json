@@ -1,0 +1,33 @@
+{
+    "cuentasCliente": {
+      "cliNumero": "1001",
+      "cliComple": "Gustavo Reyes Martínez",
+      "cliRFC": "REMG970421HHH",
+      "cliTelefo": "2721244358",
+      "cpCliDir": "94410",
+      "cuentas": [
+        {
+          "salCuenta": "111222333",
+          "salCLAVE": "111222333",
+          "tipDescri": "Alias de la cuenta",
+          "monDescri": "Pesos MXN",
+          "salDispon": 23453.50
+        },
+        {
+          "salCuenta": "222333555",
+          "salCLAVE": "222333555",
+          "tipDescri": "Alias de la cuenta",
+          "monDescri": "Pesos MXN",
+          "salDispon": 1000.30
+        },
+        {
+          "salCuenta": "555666777",
+          "salCLAVE": "555666777",
+          "tipDescri": "Alias de la cuenta",
+          "monDescri": "Pesos MXN",
+          "salDispon": 0.0
+        }
+      ]
+    }
+  }
+
