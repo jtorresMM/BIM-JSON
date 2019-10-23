@@ -1,0 +1,22 @@
+{
+  "inverstionRenovada": {
+    "invCuenta": "001935000013",
+    "invNueva": "001935000030001",
+    "invCantidad": 100000.40,
+    "invDeposi": 100000.40,
+    "invPlazo": 3,
+    "invTBruta": 4.40,
+    "invCanBru": 12.22,
+    "invGat": 4.50,
+    "invGatRea": 0.77,
+    "invFecIni": "2019-10-23",
+    "invISR": 1.04,
+    "invCanISR": 2.89,
+    "invFecVen": "2019-10-26",
+    "invTasa": 3.36,
+	"invCanNet": 9.33,
+    "adiInsLiq": "Renovar Capital con Interés",
+    "invCanTot": 100009.33,
+    "usuNombre": "Nombre Usuario BE"
+  }
+}
