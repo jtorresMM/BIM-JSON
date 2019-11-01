@@ -167,13 +167,13 @@
             "categoria": "PAGARE",
             "inversiones": [],
             "cpTotalInvCantid": 10.0,
-            "cpTotalInv": 0
+            "cpTotalInv": 1
         },
         {
             "categoria": "CEDE_RI",
             "inversiones": [],
             "cpTotalInvCantid": 10.0,
-            "cpTotalInv": 0
+            "cpTotalInv": 1
         }
     ]
 }
