@@ -160,20 +160,20 @@
                     "cpRenInv": false
                 }
             ],
-            "cpTotalInvCantid": 1900000.0,
+            "cpTotalInvCantid": 1800000.0,
             "cpTotalInv": 4
         },
         {
             "categoria": "PAGARE",
             "inversiones": [],
-            "cpTotalInvCantid": 10.0,
-            "cpTotalInv": 1
+            "cpTotalInvCantid": 0.0,
+            "cpTotalInv": 0
         },
         {
             "categoria": "CEDE_RI",
             "inversiones": [],
-            "cpTotalInvCantid": 10.0,
-            "cpTotalInv": 1
+            "cpTotalInvCantid": 0.0,
+            "cpTotalInv": 0
         }
     ]
 }
