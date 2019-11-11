@@ -1,0 +1,25 @@
+{
+  "cuentasDestinoBIM": [
+    {
+      "cdbCuenta": "111935000032",
+      "cdbAlias": "Destino",
+      "cdbFecAlt": "2019-11-11",
+      "cdbRFCBen": "CUPU800825569",
+      "cdbEmaBen": "1501800194"
+    },
+     {
+      "cdbCuenta": "111935000033",
+      "cdbAlias": "Destino",
+      "cdbFecAlt": "2019-11-10",
+      "cdbRFCBen": "CUPU800825568",
+      "cdbEmaBen": "1501800195"
+    },
+     {
+      "cdbCuenta": "111935000034",
+      "cdbAlias": "Destino",
+      "cdbFecAlt": "2019-11-9",
+      "cdbRFCBen": "CUPU800825567",
+      "cdbEmaBen": "1501800196"
+    }
+  ]
+}
