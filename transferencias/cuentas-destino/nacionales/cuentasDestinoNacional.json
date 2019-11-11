@@ -1,0 +1,28 @@
+{
+  "cuentasDestinoNacional": [
+    {
+      "cpCLABE": "111935000051",
+      "cpAlias": "DestinoNacional",
+      "cpBanco": "Nacional",
+      "cpFecAlt": "2019-11-11",
+      "cpRFCBen": "CUPU800825590",
+      "cpEmaBen": "1501800121"
+    },
+     {
+      "cpCLABE": "111935000052",
+      "cpAlias": "DestinoNacional",
+      "cpBanco": "Nacional",
+      "cpFecAlt": "2019-11-11",
+      "cpRFCBen": "CUPU800825591",
+      "cpEmaBen": "1501800122"
+    },
+     {
+      "cpCLABE": "111935000053",
+      "cpAlias": "DestinoNacional",
+      "cpBanco": "Nacional",
+      "cpFecAlt": "2019-11-11",
+      "cpRFCBen": "CUPU800825592",
+      "cpEmaBen": "1501800123"
+    }
+  ]
+}
