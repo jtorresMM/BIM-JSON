@@ -1,0 +1,15 @@
+{
+  "transferenciaExitosa": {
+    "trnCueOri": "212121",
+    "trnCueDes": "222222",
+    "trnBanDes": "Banamex",
+    "trnMonTot": "100",
+    "trnDescri": "pago",
+    "numTransac": "00011",
+    "trsClaRas": "2112",
+    "trnUsCaNo": "Julio",
+    "trsFecAut": "2019-09-12",
+    "trsFecCar": "2019-09-12",
+    "trsFecApl": "2019-09-12"
+  }
+}
