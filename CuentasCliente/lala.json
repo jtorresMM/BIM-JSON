@@ -1,0 +1,18 @@
+{
+  "cuentasCliente": {
+    "cliNumero": "string",
+    "cliComple": "string",
+    "cliRFC": "string",
+    "cliTelefo": "string",
+    "cpCliDir": "string",
+    "cuentas": [
+      {
+        "salCuenta": "string",
+        "salCLAVE": "string",
+        "tipDescri": "string",
+        "monDescri": "string",
+        "salDispon": 100
+      }
+    ]
+  }
+}
