@@ -1,0 +1,11 @@
+{
+  "cuentasDestinoBIM": [
+    {
+      "cdbCuenta": "string",
+      "cdbAlias": "string",
+      "cdbFecAlt": "2019-11-21",
+      "cdbRFCBen": "string",
+      "cdbEmaBen": "string"
+    }
+  ]
+}
