@@ -1,4 +1,3 @@
-
 {
     "cuentasCliente": {
         "cliNumero": "00195383",
@@ -6,6 +5,21 @@
         "cliRFC": "MIRC840430EY3",
         "cliTelefo": "12345678",
         "cpCliDir": "Calle 4764 Numero 476 57000 Colonia 4764 NEZAHUALCOYOTL MEXICO MEXICO",
-        "cuentas": []
+        "cuentas": [
+            {
+                "salCuenta": "001953830023",
+                "salCLAVE": "150180019538300237",
+                "tipDescri": "PATRIMONIO BIM",
+                "monDescri": "PESOS",
+                "salDispon": 56906.09
+            },
+            {
+                "salCuenta": "001953830040",
+                "salCLAVE": "150180019538300402",
+                "tipDescri": "PATRIMONIO BIM",
+                "monDescri": "PESOS",
+                "salDispon": 0.0
+            }
+        ]
     }
 }
