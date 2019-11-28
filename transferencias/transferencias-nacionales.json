@@ -1,0 +1,32 @@
+{
+  "transferenciasProgramadas": [
+    {
+      "cpTrnTransf": "SPEI",
+      "trnDeCuOr": "987654321",
+      "trnDeCuDe": "12345678911",
+      "trnMonto": "123000000",
+      "trnBanDes": "BBVA",
+      "trnDescri": "Descripcion",
+      "trnFePrEn": "2019-11-28",
+      "cpTrnSec": "1/4",
+      "trnEmaBen": "julio@mediomelon.mx",
+      "trnFrecue": "U",
+      "cpTrnSecue": "2019-12-27",
+      "trnDiAnEm": 0
+    },
+     {
+      "cpTrnTransf": "SPEI",
+      "trnDeCuOr": "987654321",
+      "trnDeCuDe": "12345678999",
+      "trnMonto": "999999999",
+      "trnBanDes": "BBVA",
+      "trnDescri": "Descripcion",
+      "trnFePrEn": "2019-11-28",
+      "cpTrnSec": "1/4",
+      "trnEmaBen": "emedina@mediomelon.mx",
+      "trnFrecue": "U",
+      "cpTrnSecue": "2019-12-27",
+      "trnDiAnEm": 1
+    }
+  ]
+}
