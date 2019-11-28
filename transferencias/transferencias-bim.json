@@ -1,0 +1,28 @@
+{
+  "transferenciasProgramadas": [
+    {
+      "trbDeCuOr": "12345678910",
+      "trbDeCuDe": "987654321",
+      "trbTotPes": "150000",
+      "trbFeSiEj": "2019-11-28",
+      "cpTrnSec": "1/4",
+      "trbEmaBen": "emedina@mediomelon.mx",
+      "trbFrecue": "U",
+      "cpTrbSecue": "2019-12-27",
+      "trbFePrEn": "2019-11-1",
+      "trbDiAnEm": 0
+    },
+      {
+      "trbDeCuOr": "12345678910",
+      "trbDeCuDe": "987654321",
+      "trbTotPes": "150000",
+      "trbFeSiEj": "2019-11-28",
+      "cpTrnSec": "1/4",
+      "trbEmaBen": "jc@mediomelon.mx",
+      "trbFrecue": "U",
+      "cpTrbSecue": "2019-12-27",
+      "trbFePrEn": "2019-11-1",
+      "trbDiAnEm": 1
+    }
+  ]
+}
